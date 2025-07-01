@@ -63,7 +63,9 @@ A C++ console-based encryption tool featuring Caesar Cipher encryption/decryptio
 
 ## 👤 Author
 
-- [Aleeza Rizwan](https://github.com/its-aleezA)  
+- [Aleeza Rizwan](https://github.com/its-aleezA)
+- [Muhammad Ibrahim Abdullah](https://github.com/Ibrahim5570)
+- [Shaheer Afzal](https://github.com/ShaheerAfzal) 
 
 ---
 
